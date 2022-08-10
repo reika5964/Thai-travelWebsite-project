@@ -22,7 +22,7 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">Thailand travel.</a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
@@ -48,24 +48,24 @@
          <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
-               <h3>travel arround the world</h3>
-               <a href="package.php" class="btn">discover more</a>
+               <h3>タイ旅行・ツアー・観光なら</h3>
+               <a href="package.php" class="btn">さらに詳しく</a>
             </div>
          </div>
 
-         <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/home-slide-02.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
-               <h3>discover the new places</h3>
-               <a href="package.php" class="btn">discover more</a>
+               <h3>添乗員同行ツアーも多数ご用意。</h3>
+               <a href="package.php" class="btn">さらに詳しく</a>
             </div>
          </div>
 
-         <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/home-slide-03.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
-               <h3>make your tour worthwhile</h3>
-               <a href="package.php" class="btn">discover more</a>
+               <h3>豊富なツアーラインナップをご用意。</h3>
+               <a href="package.php" class="btn">さらに詳しく</a>
             </div>
          </div>
          
@@ -90,32 +90,32 @@
 
       <div class="box">
          <img src="images/icon-1.png" alt="">
-         <h3>adventure</h3>
+         <h3>冒険</h3>
       </div>
 
       <div class="box">
          <img src="images/icon-2.png" alt="">
-         <h3>tour guide</h3>
+         <h3>ツアーガイド</h3>
       </div>
 
       <div class="box">
          <img src="images/icon-3.png" alt="">
-         <h3>trekking</h3>
+         <h3>山登り体験</h3>
       </div>
 
       <div class="box">
          <img src="images/icon-4.png" alt="">
-         <h3>camp fire</h3>
+         <h3>キャンプファイヤー</h3>
       </div>
 
       <div class="box">
          <img src="images/icon-5.png" alt="">
-         <h3>off road</h3>
+         <h3>オフロード</h3>
       </div>
 
       <div class="box">
          <img src="images/icon-6.png" alt="">
-         <h3>camping</h3>
+         <h3>キャンプ</h3>
       </div>
 
    </div>
@@ -134,7 +134,7 @@
 
    <div class="content">
       <h3>about us</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+      <p>タイ旅行者向けに、各地域の外国語スキルを持つ人材（外国語人材）をガイドとして紹介するプライベートツアーサービスです。ガイドは、18歳以上で一定レベル以上の外国語スキルを有していれば、国籍*1や職業、資格を問わず、誰でも登録することができます。旅行者からガイドに支払われる報酬は、1時間1,000円～10,000円の範囲でガイドが自由に設定することができます。</p>
       <a href="about.php" class="btn">read more</a>
    </div>
 
@@ -152,33 +152,33 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images/img01.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <h3>プーケットオールドタウン</h3>
+            <p>「プーケットオールドタウン」は、ピンク、イエロー、グリーン、ブルーなど色とりどりのパステルカラーの建物がフォトジェニックに並ぶショッピングエリア。インスタ映え抜群で女子旅に人気です。古い店舗がリノベーションされたノスタルジックでおしゃれなショップが多く、現地の若者も多く集まります。物価が安いことも魅力のひとつで、毎週日曜にはナイトマーケットも開催されています。</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/img02.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <h3>マハナコーン・スカイウォーク</h3>
+            <p>「マハナコーン・スカイウォーク」は地上314m、タイで1番高いビル「キングパワー・マハナコーンビル」の最上78階に位置する展望スポット。2018年11月にオープンした新名所で、幅4m、長さ12mと世界最大級の面積を誇るガラス床が目玉。真下に広がる迫力の眺めが堪能できるほか、屋内と屋外に観覧エリアがあり360度のパノラマビューが楽しめます。日没を眺めながらカクテルが楽しめるルーフトップバーも。</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
       
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/img03.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <h3>タイガーキングダムプーケット</h3>
+            <p>「タイガーキングダムプーケット」は、トラと直に触れ合うことができる人気のアトラクション施設。子どものトラから大人のトラまで、檻の中で様々な成長過程のトラを触ったり、ツーショット写真を撮ることができます。トラを眺めながら食事ができるレストランも併設。ほかにない思い出に残る特別な体験をすることができます。</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -245,8 +245,8 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> nigawa75@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> chiba,japan - 2610003 </a>
       </div>
 
       <div class="box">
@@ -259,7 +259,7 @@
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   <div class="credit"> created by <span>Reika Igawa</span> | all rights reserved! </div>
 
 </section>
 

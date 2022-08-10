@@ -22,7 +22,7 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">Thailand travel.</a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
@@ -51,8 +51,9 @@
 
    <div class="content">
       <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <p>タイ旅行者向けに、各地域の外国語スキルを持つ人材（外国語人材）をガイドとして紹介するプライベートツアーサービスです。ガイドは、18歳以上で一定レベル以上の外国語スキルを有していれば、国籍*1や職業、資格を問わず、誰でも登録することができます。旅行者からガイドに支払われる報酬は、1時間1,000円～10,000円の範囲でガイドが自由に設定することができます。</p>
+      <p>旅行者は当社ウェブサイトから希望のツアープランとガイドを選択し、ツアーの予約リクエストを行います。予約リクエストを受けたガイドが24時間以内に対応可否を回答することで、ツアーの予約が成立します。ツアー料金は参加人数に関係なく一律で、旅行者が選択するガイドによって変動します。
+また、旅行者がガイドを選択しない予約方法も提供しており、旅行者からツアーの予約リクエストを受けた後、当社が条件に合ったガイドを手配します。なお、2019年1月時点でのツアー対応言語は、英語・中国語・広東語・韓国語の4言語となります。ガイドの登録は当社ウェブサイトから行うことができ、登録後に本人確認書類のアップロードと当社社員との面談を行う必要があります。2019年1月時点で200名以上（内、通訳案内士が約3割）がガイドとして登録しており、その年齢は20代から60代まで幅広く、職業は学生や会社員、主婦、定年退職者など多様です。今後、サービスエリアの拡大にあわせて、国内各地でのガイド登録の受付を順次開始します。</p>
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>
